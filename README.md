@@ -1,1 +1,1 @@
-IN PROGRESS
+Just my personal page, nothing special.
