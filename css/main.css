@@ -1,0 +1,79 @@
+
+body {
+  font-family: "Muli", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  height: 100vh;
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  margin: 0;
+}
+
+a {
+  color: #000;
+  /*text-decoration: none;*/
+}
+
+a:hover {
+  color: #C5B358;
+}
+
+header .name {
+  font-size: 5em;
+  font-weight: bold;
+}
+
+header .fa {
+  font-size: 3em;
+  margin: 10px 5px;
+  border: 3px solid #000;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  line-height: 1.5em;
+  text-decoration: none;
+}
+
+.profile {
+  border-top: 20px double #C5B358;
+  padding: 0 30px;
+}
+
+.main-profile-img {
+  display: block;
+  margin: 20px auto 5px;
+  border: 10px double #C5B358;
+  max-width: 90%;
+}
+
+.profile div {
+  margin: 50px auto;
+}
+
+.profile div h2 {
+  text-transform: uppercase;
+}
+
+.profile ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects {
+  width: 80%;
+}
+
+.projects ul {
+  text-align: left;
+}
+
+.projects a {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.projects .note {
+  color: #C5B358;
+}
