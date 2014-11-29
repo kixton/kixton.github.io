@@ -20,12 +20,12 @@ a:hover {
   color: #C5B358;
 }
 
-header .name {
+#header .name {
   font-size: 5em;
   font-weight: bold;
 }
 
-header .fa {
+#header .fa {
   font-size: 3em;
   margin: 10px 5px;
   border: 3px solid #000;
