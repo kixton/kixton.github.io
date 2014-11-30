@@ -1,4 +1,4 @@
-/* css code has not been fully refactored */
+/* NOTE: CSS has not been refactored, please excuse */
 
 body {
   font-family: "Muli", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -25,7 +25,7 @@ a:active {
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
 }
 
 
@@ -54,7 +54,6 @@ img {
   display: block;
   margin: 20px auto 5px;
   border: 10px double #C5B358;
-  max-width: 90%;
 }
 
 .profile {
@@ -87,6 +86,11 @@ div.projects h2 {
   margin: 0;
 }
 
+.projects .note {
+  font-family: 'Playfair Display', serif;
+  margin: 10px 0 30px 0;
+}
+
 .projects ul {
   text-align: left;
   font-family: 'Playfair Display', serif;
@@ -96,11 +100,6 @@ div.projects h2 {
   font-family: "Muli", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-}
-
-.projects .note {
-  color: #C5B358;
-  font-family: 'Playfair Display', serif;
 }
 
 .contact .fa {
