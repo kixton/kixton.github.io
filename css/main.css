@@ -76,6 +76,7 @@ img {
 
 .projects {
   width: 90%;
+  max-width: 750px;
 }
 
 .rec img {
