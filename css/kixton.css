@@ -122,11 +122,16 @@ nav a {
 }
 
 .headline {
-  font-size: 30px;
+  font-size: 40px;
   margin: auto;
   margin-top: 100px;
   padding: 0 50px;
   font-family: 'Sanchez';
+}
+
+h3.headline {
+  font-size: 20px;
+  margin: 20px 0;
 }
 
 
